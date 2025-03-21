@@ -1,5 +1,6 @@
-#Automated Deployment of a Java Web Application
-#enabling  continuous  integration  and  continuous  deployment  (CI/CD)  for  a Java-based web application.
+# Automated Deployment of a Java Web Application
+Enabling  continuous  integration  and  continuous  deployment  (CI/CD)  for  a Java-based web application.
+
 #Jenkins pipeline must be built as a script or using Pipeline from SCM.
 
 #Project Directory Structure
